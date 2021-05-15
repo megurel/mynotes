@@ -8,5 +8,5 @@ Other pages on this zettelkasten:
 
 - [[faq]]#
 
-[[test]]
+[[Test]]
 
